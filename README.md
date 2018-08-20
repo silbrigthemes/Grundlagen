@@ -10,6 +10,22 @@ Theme for the #NoJSChallenge.
   <li><a href="#primary-credits" title="primary credits">Primary Credits</a></li>
   <li><a href="#extra-credits" title="extra credits">Extra Credits</a></li>
   <li><a href="#customization" title="customization guide"><b>Customization Guide</b></a></li>
+  <li><a href="#colors" title="colors">Colors</a></li>
+  <li><a href="#background" title="background"><i>Background</i></a></li>
+  <li><a href="#bold" title="bold"><i>Bold</i></a></li>  
+  <li><a href="#chat" title="chat"><i>Chat</i></a></li>
+  <li><a href="#italic" title="italic"><i>Italic</i></a></li>  
+  <li><a href="#links" title="links"><i>Links</i></a></li>
+  <li><a href="#preformatted" title="preformatted"><i>Preformatted</i></a></li>
+  <li><a href="#posts" title="posts"><i>Posts</i></a></li>
+  <li><a href="#tags" title="tags"><i>Tags</i></a></li>
+  <li><a href="#tags-hover" title="tags hover"><i>Tags on Hover</i></a></li>  
+  <li><a href="#text" title="text"><i>Text</i></a></li>
+  <li><a href="#other" title="other">Other</a></li> 
+  <li><a href="#blog-title" title="blog title"><i>Blog Title</i></a></li>  
+  <li><a href="#custom-links" title="custom links"><i>Custom Links</i></a></li>
+  <li><a href="#side-tags" title="side tags"><i>Side Tags</i></a></li>  
+  <li><a href="#unordered-lists" title="unordered lists"><i>Unordered Lists</i></a></li>  
 </ul>  
 
 <h1>Features</h1>
@@ -157,9 +173,9 @@ Theme for the #NoJSChallenge.
 <p>Under &ldquo;<strong>Custom URL #</strong>&rdquo;, you can add the <strong>link</strong>, and under &ldquo;<strong>Custom Link #</strong>&rdquo; its <strong>title</strong>.</p>
 <p><img src="https://78.media.tumblr.com/dd901c54df52652ce2a26c5243038cc1/tumblr_inline_pdrkh1NIus1v0e5mg_500.png" /></p>
 
-<h3>Ordered Lists</h3>
-<p>In order to customize the unordered lists to your liking, you will need to find the unicode for the icon of the <a href="http://themehive.co/honeybee#_=_" title="honeybee icon font | by themehive" target="_blank">honeybee font</a> to find the matching code. Then just copy and paste the code (e.g.: &ldquo;e12a&rdquo;) into the text field title &ldquo;Unordered Lists&rdquo; and click the &ldquo;save&rdquo; button.</p>
-
-<h3>Tags</h3>
+<h3>Side Tags</h3>
 <p>For the tags the customization is similar to that of the custom links. Under &ldquo;<strong>Tag #</strong>&rdquo;, you will only have to write in the tag name, ie. for <strong>/tagged/cats</strong> it would just be <strong>cats</strong>.</p>
 <p>Under &ldquo;<strong>Tagged #</strong>&rdquo;, you can add the title which will be displayed upon hovering in the tooltips. For the tag <strong>cats</strong>, you could add &ldquo;Cute Cats&rdquo; or &ldquo;Small Kittens&rdquo; as the title.</p>
+
+<h3>Ordered Lists</h3>
+<p>In order to customize the unordered lists to your liking, you will need to find the unicode for the icon of the <a href="http://themehive.co/honeybee#_=_" title="honeybee icon font | by themehive" target="_blank">honeybee font</a> to find the matching code. Then just copy and paste the code (e.g.: &ldquo;e12a&rdquo;) into the text field title &ldquo;Unordered Lists&rdquo; and click the &ldquo;save&rdquo; button.</p>
