@@ -1273,6 +1273,17 @@ Have fun!
                     text-decoration:none;
                     border-bottom:none;
                 }
+                
+                .pagi{
+                    {block:PermalinkPage}
+                    display:none;
+                    {/block:PermalinkPage}
+                    {block:HasPages}
+                    {block:Pages}
+                    display:none;
+                    {/block:Pages}
+                    {/block:HasPages}
+                }
             }
             
             @media only screen and (max-width:400px){
@@ -1875,7 +1886,7 @@ Have fun!
                     </form>
                     </div>
                     
-                    <div class="f-box">
+                    <div class="f-box pagi">
                     <div class="f-title">Pagination</div>
                     <!-- PAGINATION -->
                     {block:Pagination}
