@@ -1168,6 +1168,17 @@ Have fun!
                 -webkit-transition:0.5s;
             }
             
+            .pagi{
+                {block:PermalinkPage}
+                display:none;
+                {/block:PermalinkPage}
+                {block:HasPages}
+                {block:Pages}
+                display:none;
+                {/block:Pages}
+                {/block:HasPages}
+            }
+            
             /** CUSTOM TUMBLR CONTROLS **/
             /* Hides standard tumblr controls */
             body > iframe:first-child {
@@ -1928,7 +1939,7 @@ Have fun!
                     </form>
                 </div>
                 
-                <div class="s-box">
+                <div class="s-box pagi">
                     <div class="s-box-title">Pagination</div>
                     <!-- PAGINATION -->
                     {block:Pagination}
