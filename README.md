@@ -54,3 +54,91 @@ Theme for the #NoJSChallenge.
 <li><a href="http://acuite.tumblr.com/post/53152126640/tutorial-tooltips" title="Custom Tooltips | by acuite" target="_blank">Custom tooltips script</a>, by acuite.</li>
 <li><a href="https://github.com/Spacetchi/tumblr-flexible-photoset/blob/master/README.md" title="Flexible Photosets | by 5ppi" target="_blank">Flexible photosets</a>, by 5ppi.</li>
 </ul>
+
+<hr>
+
+<h1>Customization</h1>
+<h2>Colors</h2>
+<h3>Background</h3>
+<ul>
+<li><strong>Body</strong> background.</li>
+<li><strong>Text selection</strong> background.</li>
+<li><strong>Scrollbar</strong> background.</li>
+<li><strong>Line break</strong> (&lt;hr&gt;) background.</li>
+<li><strong>Odd</strong> <strong>chat</strong> background (1, 3, 5).</li>
+<li><strong>Question</strong> background.</li>
+<li><strong>Searchbar</strong> background.</li>
+<li><strong>Custom controls</strong> background.</li>
+</ul>
+<h3>Bold</h3>
+<ul>
+<li><strong>Bold</strong> text (&lt;b&gt;).</li>
+<li><strong>Unordered list</strong> icons (&lt;ul&gt;).</li>
+</ul>
+<h3>Chat</h3>
+<ul>
+<li><strong>Even chat</strong> background (2, 4, 6).</li>
+<li><strong>Answer</strong> background.</li>
+<li><strong>Tooltips</strong> background [javascript version].</li>
+</ul>
+<h3>Italic</h3>
+<ul>
+<li><strong>Italic</strong> text (&lt;i&gt;).</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><strong>Link</strong> text color and bottom border.</li>
+<li><strong>Links</strong> on <strong>permalink</strong> pages.</li>
+</ul>
+<h3>Preformatted</h3>
+<ul>
+<li><strong>Preformatted text</strong> background (&lt;pre&gt;).</li>
+<li><strong>User replies</strong> background.</li>
+<li><strong>Lightbox</strong> background.</li>
+<li><strong>Audio</strong> background [javascript version].</li>
+</ul>
+<h3>Posts</h3>
+<ul>
+<li><strong>Scrollbar</strong> border.</li>
+<li><strong>Scrollbar thumb</strong> border.</li>
+<li><strong>Header</strong> background.</li>
+<li><strong>Sidebar</strong> background.</li>
+<li><strong>Post</strong> background.</li>
+<li><strong>Heading</strong> and <strong>footing</strong> background [responsive, &lt; 800px].</li>
+</ul>
+<h3>Tags</h3>
+<ul>
+<li><strong>Navigation links</strong> background.</li>
+<li><strong>Answer username</strong> background on hover.</li>
+<li><strong>Question username</strong> background.</li>
+<li><strong>Username</strong> background.</li>
+<li><strong>Post information</strong> and <strong>tags</strong> background.</li>
+<li><strong>Pagination</strong> background.</li>
+</ul>
+<h3>Tags Hover</h3>
+<ul>
+<li><strong>Navigation links</strong> background on hover.</li>
+<li><strong>Answer username</strong> background.</li>
+<li><strong>Question username</strong> background on hover.</li>
+<li><strong>Username</strong> background on hover.</li>
+<li><strong>Post footer</strong> top border.</li>
+<li><strong>Post information</strong> and <strong>tags</strong> background on hover.</li>
+<li><strong>Pagination</strong> background on hover.</li>
+<li><strong>Custom controls</strong> background on hover.</li>
+</ul>
+<h3>Text</h3>
+<ul>
+<li>Mobile <strong>toolbar</strong>.</li>
+<li>Global <strong>text</strong> color.</li>
+<li><strong>Text selection</strong> color.</li>
+<li><strong>Scrollbar thumb</strong> background.</li>
+<li><strong>Link</strong> border on hover.</li>
+<li><strong>Underlined text</strong> border (&lt;u&gt;).</li>
+<li><strong>Post title</strong> color.</li>
+<li><strong>Sidebar titles</strong>.</li>
+<li><strong>Chat label</strong> bottom border.</li>
+<li><strong>Link post</strong> text color on hover.</li>
+<li><strong>Permalink notes</strong> border on hover.</li>
+<li><strong>Searchbar</strong> text color.</li>
+<li><strong>Custom controls</strong> icon color.</li>
+</ul>
