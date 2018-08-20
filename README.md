@@ -9,6 +9,7 @@ Theme for the #NoJSChallenge.
   <li><a href="#credits" title="all credits"><b>Credits</b></a></li>
   <li><a href="#primary-credits" title="primary credits">Primary Credits</a></li>
   <li><a href="#extra-credits" title="extra credits">Extra Credits</a></li>
+  <li><a href="#customization" title="customization guide"><b>Customization Guide</b></a></li>
 </ul>  
 
 <h1>Features</h1>
@@ -142,3 +143,23 @@ Theme for the #NoJSChallenge.
 <li><strong>Searchbar</strong> text color.</li>
 <li><strong>Custom controls</strong> icon color.</li>
 </ul>
+
+<hr>
+
+<h2>Other</h2>
+<h3>Blog Title</h3>
+<p>To customize the blog title and the way quotes look, simply change the integrated tumblr font <strong>{TitleFont}</strong> to a font you like and change its font-weight with <strong>{TitleFontWeight}</strong>.</p>
+<p><img src="https://78.media.tumblr.com/68a52f2e4c40e580ae1ab7e5118bb98e/tumblr_inline_pdrkakDd9L1v0e5mg_500.png" /></p>
+
+<h3>Custom Links</h3>
+<p>To <strong>show</strong> or <em>hide</em> custom links, simply switch the toggles to <strong>on</strong> or <em>off</em>.</p>
+<p><img src="https://78.media.tumblr.com/09b6a2c396da5138a6c1ee84a46c2428/tumblr_inline_pdrkgnUAfA1v0e5mg_500.png" /></p>
+<p>Under &ldquo;<strong>Custom URL #</strong>&rdquo;, you can add the <strong>link</strong>, and under &ldquo;<strong>Custom Link #</strong>&rdquo; its <strong>title</strong>.</p>
+<p><img src="https://78.media.tumblr.com/dd901c54df52652ce2a26c5243038cc1/tumblr_inline_pdrkh1NIus1v0e5mg_500.png" /></p>
+
+<h3>Ordered Lists</h3>
+<p>In order to customize the unordered lists to your liking, you will need to find the unicode for the icon of the <a href="http://themehive.co/honeybee#_=_" title="honeybee icon font | by themehive" target="_blank">honeybee font</a> to find the matching code. Then just copy and paste the code (e.g.: &ldquo;e12a&rdquo;) into the text field title &ldquo;Unordered Lists&rdquo; and click the &ldquo;save&rdquo; button.</p>
+
+<h3>Tags</h3>
+<p>For the tags the customization is similar to that of the custom links. Under &ldquo;<strong>Tag #</strong>&rdquo;, you will only have to write in the tag name, ie. for <strong>/tagged/cats</strong> it would just be <strong>cats</strong>.</p>
+<p>Under &ldquo;<strong>Tagged #</strong>&rdquo;, you can add the title which will be displayed upon hovering in the tooltips. For the tag <strong>cats</strong>, you could add &ldquo;Cute Cats&rdquo; or &ldquo;Small Kittens&rdquo; as the title.</p>
